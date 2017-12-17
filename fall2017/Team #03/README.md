@@ -1,16 +1,16 @@
-Team #
+Team #3
 
 
-Team Member: 
+Team Member: Shu-Nong Wu, Xiao Yang, David Yang
 
 
-Email:
+Email: wus7@rpi.edi
 
 
-Project: 
+Project: DuckieLyft
 
 
-Description:
+Description: Using a Dobot, pick up a rubber duck and place it on a platform
 
 
 
